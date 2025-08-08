@@ -143,30 +143,7 @@ Customize the AI responses in `js/ai-chatbot.js`:
    - Modify response logic
    - Add new conversation topics
 
-## 🌐 Deployment
 
-### GitHub Pages
-1. Create a new repository on GitHub
-2. Upload all files to the repository
-3. Go to Settings > Pages
-4. Select source branch (usually `main`)
-5. Your site will be available at `https://username.github.io/repository-name`
-
-### Netlify
-1. Drag and drop the project folder to [Netlify](https://netlify.com)
-2. Your site will be deployed instantly
-3. Custom domain can be added in settings
-
-### Vercel
-1. Install Vercel CLI: `npm i -g vercel`
-2. Navigate to project directory
-3. Run `vercel` and follow prompts
-4. Your site will be deployed with a custom URL
-
-### Custom Domain
-1. Purchase a domain (e.g., from Namecheap, GoDaddy)
-2. Add DNS records pointing to your hosting provider
-3. Configure in your hosting platform settings
 
 ## 🔧 Browser Support
 
@@ -249,3 +226,4 @@ For questions or support:
 **Built with ❤️ by Jenendra Khandelwal**
 
 *This portfolio showcases modern web development skills with AI integration and stunning visual effects.*
+
